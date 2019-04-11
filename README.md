@@ -1,5 +1,3 @@
-# Day 1 of #100DaysOfCode Challenge
-
 ## weather.py
 
 ### This script uses OpenWeatherMap's API (https://openweathermap.org/api) 
